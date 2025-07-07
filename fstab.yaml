@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p21002-e1571066.adobeaemcloud.com/bin/franklin.delivery/lovelymandal16/xwalk-setup3/main
+    url: https://author-p107005-e259039-cmstg.adobeaemcloud.com/bin/franklin.delivery/lovelymandal16/xwalk-setup3/main
     type: "markup"
     suffix: ".html"
